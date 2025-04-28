@@ -4,7 +4,7 @@ namespace carAssigment
 {
     class Program 
     {
-        //Made a car cass to store the car's details 
+        //made car class to store the car's details 
         public class Car
         {
         
@@ -14,7 +14,7 @@ namespace carAssigment
             public int year;       
             public int value;     
 
-            //Constructor use car object with specific info
+            //constructor use car object with specific info
             public Car(string carMake, string carModel, string registration, int yearOfReg, int currentValue)
             {
                 make = carMake;        
@@ -24,26 +24,26 @@ namespace carAssigment
                 value = currentValue;  
             }
 
-            //Get value for car
+            //gets value for the car
             public int GetCurrentValue()
             {
                 return value;
             }
 
-            // Get car year
+            // gets the car year year
             public int GetYear()
             {
                 return year;
             }
 
-            // Using override to show all details 
+            // using override to show all details 
             public override string ToString()
             {
                 return $"Make: {make}, Model: {model}, Reg: {reg}, Year: {year}, Value: ${value}";
             }
         }
 
-        // Made a test class for the car class
+        // made a test class for the car class
         public class CarTest
         {
      
@@ -56,7 +56,7 @@ namespace carAssigment
             }
         }
 
-        //The main method 
+        //main method 
         static void Main(string[] args)
         {
           
