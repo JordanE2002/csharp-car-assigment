@@ -1,0 +1,14 @@
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\bin\Debug\net7.0\c#-class-assigment.exe
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\bin\Debug\net7.0\c#-class-assigment.deps.json
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\bin\Debug\net7.0\c#-class-assigment.runtimeconfig.json
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\bin\Debug\net7.0\c#-class-assigment.dll
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\bin\Debug\net7.0\c#-class-assigment.pdb
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\obj\Debug\net7.0\c#-class-assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\obj\Debug\net7.0\c#-class-assigment.AssemblyInfoInputs.cache
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\obj\Debug\net7.0\c#-class-assigment.AssemblyInfo.cs
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\obj\Debug\net7.0\c#-class-assigment.csproj.CoreCompileInputs.cache
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\obj\Debug\net7.0\c#-class-assigment.dll
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\obj\Debug\net7.0\refint\c#-class-assigment.dll
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\obj\Debug\net7.0\c#-class-assigment.pdb
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\obj\Debug\net7.0\c#-class-assigment.genruntimeconfig.cache
+C:\Users\Jordan English\OneDrive\netmtters folder\C#\c#-class-assigment\obj\Debug\net7.0\ref\c#-class-assigment.dll
