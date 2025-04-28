@@ -14,7 +14,7 @@ namespace carAssigment
             public int year;       
             public int value;     
 
-            // Constructor use car object with specific info
+            //Constructor use car object with specific info
             public Car(string carMake, string carModel, string registration, int yearOfReg, int currentValue)
             {
                 make = carMake;        
